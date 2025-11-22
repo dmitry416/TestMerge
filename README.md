@@ -20,7 +20,8 @@
 | <img width="790" height="1403" alt="Снимок экрана 2025-11-22 105744" src="https://github.com/user-attachments/assets/932c8faa-4c55-47de-8379-104248793c5a" /> | <img width="788" height="1402" alt="Снимок экрана 2025-11-22 105610" src="https://github.com/user-attachments/assets/84bf9877-c2b3-4f3e-943e-8deb2afecb5f" /> | <img width="789" height="1404" alt="Снимок экрана 2025-11-22 105020" src="https://github.com/user-attachments/assets/c09dd309-51ad-490e-b5a9-a32369f6f7db" /> |
 
 ### Видео геймплея
-https://github.com/user-attachments/assets/c8a9e171-97b6-4892-9071-9e3541e723b3
+
+https://github.com/user-attachments/assets/550e5e03-aa54-4774-80ce-80700679c04e
 
 ---
 
